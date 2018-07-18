@@ -31,3 +31,9 @@ The above code is heavily borrowed from [simple-faster-RCNN](https://github.com/
 Also refer this [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8270290) 
 
 The above paper proposes multiple region proposals, which I haven' implemented yet.
+
+## Resullts
+
+Results are not promising as of now. The loss is decreasing but the detection is far from perfect.
+
+[output](static/loss.png) 
