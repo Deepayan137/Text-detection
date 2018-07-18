@@ -36,4 +36,4 @@ The above paper proposes multiple region proposals, which I haven' implemented y
 
 Results are not promising as of now. The loss is decreasing but the detection is far from perfect.
 
-[output](static/loss.png) 
+![output](static/loss.png) 
