@@ -3,7 +3,7 @@ A faster-RCNN approach towards text detction and it subsequent recognition
 
 ## Datasets
 
-data present in the given [link]()
+data present in the given [link](https://drive.google.com/file/d/1ezofR3RsWuUQ4vFUd7fWoC-64VlnOXNU/view?usp=sharing)
 
 The fRCNN code only runs on VOC format inorder to convert.
 Inorder to convert you data into the Pascal VOC format run the following codes.
